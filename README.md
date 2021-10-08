@@ -5,3 +5,4 @@ $ git commit -m "Nueva funcionalidad close #66"
 ```
 Referencias:
 [Guía de estilos de HTML propuesta por Google](https://google.github.io/styleguide/htmlcssguide.html#HTML) 
+[W3schools - HTML Style Guide and Coding Conventions](https://www.w3schools.com/html/html5_syntax.asp)
