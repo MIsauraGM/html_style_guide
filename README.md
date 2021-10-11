@@ -101,7 +101,7 @@ Aquí te dejo algunos puntos a destacar:
 **J. Extensiones de ficheros.**
 * Tus ficheros HTML deberán tener las extensiones .html o .html, ambas son permitidas.
 
-##**Referencias:**
+## **Referencias:**
 
 - [Guía de estilos de HTML propuesta por Google](https://google.github.io/styleguide/htmlcssguide.html#HTML) 
 
