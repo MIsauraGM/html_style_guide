@@ -101,6 +101,11 @@ Aquí te dejo algunos puntos a destacar:
 **J. Extensiones de ficheros.**
 * Tus ficheros HTML deberán tener las extensiones .html o .html, ambas son permitidas.
 
+## **4. Valida el código de ambas páginas.**
+* Haz uso del validador de la W3C https://validator.w3.org/.
+* ¿Hay algún error o "warning" detectado en alguna de las páginas que ya has corregido?
+* Corrígelos y vuelve a validarlo.
+
 ## **Referencias:**
 
 - [Guía de estilos de HTML propuesta por Google](https://google.github.io/styleguide/htmlcssguide.html#HTML) 
