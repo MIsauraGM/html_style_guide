@@ -20,55 +20,55 @@ Aquí te dejo algunos puntos a destacar:
 
 **2. Detecta y corrige los errores de estilo en el código HTML del fichero index.html**
 
-    **1.  Declara siempre el tipo de documento**
+**A.  Declara siempre el tipo de documento**
 * Usa siempre la declaración del tipo de documento en la primer línea. 
 
-    **2. Usa minúsculas para el nombre de los elementos**
+**B. Usa minúsculas para el nombre de los elementos**
 * HTML permite mezclar mayúsculas y minúsulas pero no ayuda a la legibildad. 
 
-    **3. Cierra todos los elementos HTML**
+**C. Cierra todos los elementos HTML**
 * En HTML, no tienes porque cerrar todos los elementos (por ejemplo <p\>), aunque se recomienda encarecidamente.
 
-    **4. Usa nombre de atributos en minúsculas**
+**D. Usa nombre de atributos en minúsculas**
 * Aunque HTML permite mayúsculas y minúsculas para los nombre de los atributos la legibilidad del código es mejor y además es más fácil escribir todo en minúsculas.
 
-    **5. Incluye siempre comillas dobles para los valores de los atributos**
+**E. Incluye siempre comillas dobles para los valores de los atributos**
 * Aunque HTML permite incluir atributos sin comillas, se recomienda para mejorar la legibilidad y además para  los casos en que el valor del atributo contiene espacios. 
 
-    **6. Especifica siempre los atributos alt, width, y height para las imágenes.**
+**F. Especifica siempre los atributos alt, width, y height para las imágenes.**
 * El atributo alt es importante si la imagen por alguna razón no pudiera visualizarse. 
 * Al indicar los atributos de height y width reducen el efecto de parpadeo al cargar la página ya que el navegador puede reservar el espacio para la carga de la imagen antes.
 
-    **7. No incluyas espacios alrededor del signo =.**
+**G. No incluyas espacios alrededor del signo =.**
 * HTML permite espacios alrededor del signo igual. Pero sin espacios es más fácil leer y agrupar entidades mejor. 
 
-    **8. Evita líneas de códigos muy largas**
+**H. Evita líneas de códigos muy largas**
 * Cuando se usa un editor HTML, no es conveniente hacer scroll horizontal para poder leer el código HTML.
 
-    **9. Limita la indentación y líneas**
+**I. Limita la indentación y líneas**
 * No añadas líneas en blanco, espacios o indentación sin razón.
 
 **3. Detecta y corrige los errores de estilo en el código HTML del fichero contact.html**
 
-    **1. La etiqueta <title\> es requerida en HTML.**
+**A. La etiqueta <title\> es requerida en HTML.**
 * Indica el título de la página en el navegador.
 * El valor del título es unas para el SEO (optimización del motor de búsqueda).
 * Trata de definir un título lo más breve y significativo posible.
 
-    **2. No omitir las etiquetas <html\> <head\> o <body\>.**
+**B. No omitir las etiquetas <html\> <head\> o <body\>.**
 * Aunque pueden ser renderizadas páginas sin estas etiquetas por los navegadores, pueden dar problemas si no se incluye.
 
-    **3. Cierra las etiquetas vacías.**
+**C. Cierra las etiquetas vacías.**
 * En HTML es opcional cerrar las etiquetas vacías, no obstante son obligatorias en XML/XHTML, por lo tanto es aconsejable cerrarlas en caso de que algún software XML/XHTML use la página.
 
-    **4. Añade el atributo lang**
+**D. Añade el atributo lang**
 * Incluye siempre el atributo del lenguaje dentro de la etiqueta <html\> para declarar el lenguaje de la página ya que ayudará a los motores de búsqueda y navegadores.
 
-    **5. Incluye la etiqueta de metadatos para declarar la codificación de la página**
+**E. Incluye la etiqueta de metadatos para declarar la codificación de la página**
 * Usa la etiqueta meta y su atributo charset.
 * Debe ser declarado lo más pronto posible.
 
-    **6. Configura el Viewport**
+**F. Configura el Viewport**
 * El viewport es el área visible de una página web.
 * Esta área varía según el dispositivo.
 * Se debe incluir la siguiente etiqueta de metadatos:
@@ -79,7 +79,7 @@ Aquí te dejo algunos puntos a destacar:
 * El atributo width=device-width dependerá de la anchura del dispositivo.
 * La escala inicial establece el nivel de zoom cuando la página es cargada por el navegador.
 
-    **7. Comentarios en HTML**
+**G. Comentarios en HTML**
 * Escribe los comentarios cortos en una línea así:
 ```
 <!-- Esto es un comentario corto -->
@@ -92,13 +92,13 @@ Aquí te dejo algunos puntos a destacar:
 -->
 ```
 
-    **8. No incluyas el atributo type para incluir hojas de estilo o Javascript.**
+**H. No incluyas el atributo type para incluir hojas de estilo o Javascript.**
 * Solo si se va a usar otro tipo de código si es necesario, por defecto HTML5 ya toma los valores de CSS y Javascript por defecto.
 
-    **9. Usa minúsculas para los nombres de ficheros.**
+**I. Usa minúsculas para los nombres de ficheros.**
 * Algunos servidores son sensibles al uso de mayúsculas, por ello evita posibles problemas y manten todos los nombres de ficheros en minúsculas.
 
-    **10. Extensiones de ficheros.**
+**J. Extensiones de ficheros.**
 * Tus ficheros HTML deberán tener las extensiones .html o .html, ambas son permitidas.
 
 **Referencias:**
