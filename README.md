@@ -1,7 +1,7 @@
 # HTML Style Guide 
 Realiza las siguientes actividades y sube los cambios a tu repositorio.
 
-##**1. Lee la guía de estilos para HTML propuesta por Google**
+## **1. Lee la guía de estilos para HTML propuesta por Google**
 Lee los puntos 2 y 3 de la [guía de estilos de HTML propuesta por Google](https://google.github.io/styleguide/htmlcssguide.html#HTML).
 
 Aquí te dejo algunos puntos a destacar:
@@ -18,7 +18,7 @@ Aquí te dejo algunos puntos a destacar:
 * Usa una línea nueva para cada bloque y utiliza la indentación.
 * Es preferible usar comillas dobles a las simples cuando hay que incluir valores en las propiedades en HTML, pero usa comillas simples cuando uses CSS.
 
-##**2. Detecta y corrige los errores de estilo en el código HTML del fichero index.html**
+## **2. Detecta y corrige los errores de estilo en el código HTML del fichero index.html**
 
 **A.  Declara siempre el tipo de documento**
 * Usa siempre la declaración del tipo de documento en la primer línea. 
@@ -48,7 +48,7 @@ Aquí te dejo algunos puntos a destacar:
 **I. Limita la indentación y líneas**
 * No añadas líneas en blanco, espacios o indentación sin razón.
 
-##**3. Detecta y corrige los errores de estilo en el código HTML del fichero contact.html**
+## **3. Detecta y corrige los errores de estilo en el código HTML del fichero contact.html**
 
 **A. La etiqueta <title\> es requerida en HTML.**
 * Indica el título de la página en el navegador.
