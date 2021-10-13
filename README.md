@@ -6,7 +6,6 @@ Lee los puntos 2 y 3 de la [guía de estilos de HTML propuesta por Google](https
 
 Aquí te dejo algunos puntos a destacar:
 
-* No incluir el protocolo en los enlaces (omitir http o https).
 * No usar tabulador, sino 2 espacios (en Python, por ejemplo,  son 4 espacios).
 * Usar siempre minúscula.
 * Elimina los espacios en blanco innecesario, sobre todo al final de las líneas.
