@@ -14,7 +14,7 @@
     Esto es un ejemplo de un comentario largo que ocupa
     más de una línea y que puede seguir creciendo.
   -->
-  <img src="background.png">
+  <img src="background.png" alt="Fondo imagen">
   <div>
     <p> Rellena el siguiente formulario explicando de forma detallada el motivo de tu consulta.<br>Los campos requeridos
       están marcados con *.
@@ -25,8 +25,7 @@
         placeholder="Nombre*">
       <input type="email" id="support_email" name="support[email]" required="required" class="form-control"
         placeholder="Email*">
-      <select id="supportTicket_deparment" name="supportTicket[deparment]" required="required" class="form-control"
-        placeholder="Elija un Departamento">
+      <select id="supportTicket_deparment" name="supportTicket[deparment]" required="required" class="form-control">
         <option value="" selected="selected">Motivo de tu consulta</option>
         <option value="25">Modificación/Cancelación/Consulta de Estado de Pedidos</option>
         <option value="1">Ventas/Otra información</option>
@@ -40,6 +39,7 @@
         placeholder="Asunto*">
       <textarea id="support_message" name="support[message]" required="required" class="form-control"
         placeholder="Mensaje*" rows="4"></textarea>
+    </form>
   </div>
   <small><b>Por motivos de seguridad</b> tenemos grabada su dirección IP y grabada la hora de envío en nuestros
     logs.</small>
